@@ -12,6 +12,7 @@
         "symfony/yaml": "5.1.*"
     },
     "require-dev": {
+        "phpstan/phpstan": "^0.12.57",
         "symfony/phpunit-bridge": "^5.1"
     },
     "config": {
